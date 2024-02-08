@@ -84,5 +84,6 @@ public class Email {
         System.out.println("your email Id "+email);
         System.out.println("your deparment id "+ this.department);
         System.out.println("your password "+this.getPassWord());
+        System.out.println("Thank you");
     }
 }
